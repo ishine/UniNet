@@ -3,7 +3,7 @@ From: pytorch/pytorch:latest
  
 %labels
   Author Zhou Xiao
-  Version v1.0.1
+  Version v1.0.2
   build_date 2019 July 22
 
 %post
