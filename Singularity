@@ -13,3 +13,4 @@ From: pytorch/pytorch:latest
   apt-get autoclean
   
   /opt/conda/bin/pip install tensorflow==1.13.1 tensorboardX==1.1 numpy inflect==0.2.5 librosa==0.6.0 pillow scipy matplotlib jupyter tqdm
+
